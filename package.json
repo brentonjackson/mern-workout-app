@@ -14,7 +14,7 @@
     "@testing-library/user-event": "^7.2.1",
     "auth0-js": "^9.8.0",
     "auth0-lock": "^11.10.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.3",
     "compression": "^1.7.4",
     "dotenv": "^8.2.0",
